@@ -200,6 +200,10 @@ a:focus {
     display: flow-root;
 }
 
+.o-row—neutral-x-light {
+    background-color:#F7F7F7 ;
+}
+
 /* size modifiers */
 
 .o-row--lg {
